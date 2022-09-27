@@ -1,0 +1,16 @@
+PODS:
+  - ScrollView (0.1.3)
+
+DEPENDENCIES:
+  - ScrollView
+
+SPEC REPOS:
+  trunk:
+    - ScrollView
+
+SPEC CHECKSUMS:
+  ScrollView: 63feeae58ce2795d418c8b3a70d612bc436f93a7
+
+PODFILE CHECKSUM: 3f900a3e312a1217c8657a3bf43db34261ff7e9f
+
+COCOAPODS: 1.11.3
